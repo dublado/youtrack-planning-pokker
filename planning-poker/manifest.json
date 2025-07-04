@@ -1,0 +1,10 @@
+{
+  "name" : "planning-poker",
+  "title" : "Planning poker",
+  "version" : "1.0.0",
+  "visual" : true,
+  "vendor" : {
+    "name" : "Thiago Machado",
+    "email" : "thiago@aatreyo.com"
+  }
+}
